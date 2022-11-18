@@ -12,6 +12,11 @@ I have added the alt attribute for all the images and icons so that they can be 
 ## Addded semantic elements
 I added header, main section and footer tags to make the html doc more readable
 
+## Check the links and add id to the first link
+Of the three links two of them are pointing to the relevant areas in the page but one of them is not
+The other two elemenets has id tags and they have # to locate element
+But the first one did not have id attribute so I added one and it also points to the correct element when clicked
+
 ## Move the html to root directory and refactor the image links
 For the HTML page to be displayed in the pages section in github it needs to be moved to 
 root directory. I moved the file to the root file but for ot to work as expected the realtive path 
